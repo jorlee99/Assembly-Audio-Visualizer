@@ -1,0 +1,58 @@
+Quartus II Archive log --	C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/simple_ipod_solution_tmp_archive.qarlog
+
+Archive:	C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/simple_ipod_solution_tmp_archive.qar
+Date:		Thu Feb 20 21:18:46 2020
+Quartus II 64-Bit		14.1.0 Build 186 12/03/2014 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/Clock_Gen.v
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/LCD_Scope_Encapsulated_pacoblaze.qxp
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/SevenSegmentDisplayDecoder.qxp
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/assignment_defaults.qdf
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/async_trap_and_reset.qxp
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/async_trap_and_reset_gen_1_pulse.qxp
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/audio_controller.qxp
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/clock_sync.v
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/db/lcd_scope_auto_stripped.stp
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/doublesync.v
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/flash.qxp
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/generate_arbitrary_divided_clk32.v
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/ipod_fsm.v
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/ipod_fsm_timer.v
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/ipod_fsm_timer_tb.vwf
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/kbd_ctrl.v
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/key2ascii.v
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/keyboard_converter.v
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/keyboard_converter_tb.vwf
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/lcd_scope.stp
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/lcd_scope_encapsulated_pacoblaze_wrapper.v
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/pacoblaze_instruction_memory.v
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/picoblaze_template.v
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/pracpico.mem
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/scope_capture.qxp
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/simple_ipod_solution.qpf
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/simple_ipod_solution.qsf
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/simple_ipod_solution.v
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/speed_reg_control.qxp
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/timing_constraints.sdc
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/to_slow_clk_interface.qxp
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/var_clk_div32.qxp
+C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/write_kbd_to_scope_lcd.v
+c:/users/jorda/desktop/cpen 311/lab 3/template_de1soc/pacoblaze/pacoblaze.v
+c:/users/jorda/desktop/cpen 311/lab 3/template_de1soc/pacoblaze/pacoblaze3.v
+c:/users/jorda/desktop/cpen 311/lab 3/template_de1soc/pacoblaze/pacoblaze_alu.v
+c:/users/jorda/desktop/cpen 311/lab 3/template_de1soc/pacoblaze/pacoblaze_idu.v
+c:/users/jorda/desktop/cpen 311/lab 3/template_de1soc/pacoblaze/pacoblaze_inc.v
+c:/users/jorda/desktop/cpen 311/lab 3/template_de1soc/pacoblaze/pacoblaze_register.v
+c:/users/jorda/desktop/cpen 311/lab 3/template_de1soc/pacoblaze/pacoblaze_scratch.v
+c:/users/jorda/desktop/cpen 311/lab 3/template_de1soc/pacoblaze/pacoblaze_stack.v
+	======= Total: 41 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Thu Feb 20 21:18:49 2020
+Source archive file:	C:/Users/jorda/Desktop/Cpen 311/Lab 3/template_de1soc/simple_ipod_solution_tmp_archive.qar
+Archive was extracted into	C:/Users/jorda/Desktop/Cpen 311/Lab 3/Working Shit Faces/
+		 - successfully.

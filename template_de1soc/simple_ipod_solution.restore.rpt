@@ -1,0 +1,101 @@
+Restore Archived Project report for simple_ipod_solution
+Thu Feb 20 14:57:42 2020
+Quartus II 64-Bit Version 14.1.0 Build 186 12/03/2014 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2014 Altera Corporation. All rights reserved.
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, the Altera Quartus II License Agreement,
+the Altera MegaCore Function License Agreement, or other 
+applicable license agreement, including, without limitation, 
+that your use is for the sole purpose of programming logic 
+devices manufactured by Altera and sold by Altera or its 
+authorized distributors.  Please refer to the applicable 
+agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Thu Feb 20 14:57:42 2020 ;
+; Revision Name                   ; simple_ipod_solution                  ;
+; Top-level Entity Name           ; simple_ipod_solution                  ;
+; Family                          ; Cyclone V                             ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/Users/jorda/Desktop/Cpen 311/Lab2/template_de1soc/simple_ipod_solution_tmp_archive.qar' into the 'C:/Users/jorda/Desktop/Cpen 311/Lab 3' directory
+Info: Generated report 'simple_ipod_solution.restore.rpt'
+
+
++-----------------------------------------------------------------+
+; Files Restored                                                  ;
++-----------------------------------------------------------------+
+; File Name                                                       ;
++-----------------------------------------------------------------+
+; qar_info.json                                                   ;
+; Lab2/template_de1soc/Clock_Gen.v                                ;
+; Lab2/template_de1soc/LCD_Scope_Encapsulated_pacoblaze.qxp       ;
+; Lab2/template_de1soc/SevenSegmentDisplayDecoder.qxp             ;
+; Lab2/template_de1soc/async_trap_and_reset.qxp                   ;
+; Lab2/template_de1soc/async_trap_and_reset_gen_1_pulse.qxp       ;
+; Lab2/template_de1soc/audio_controller.qxp                       ;
+; Lab2/template_de1soc/clock_sync.v                               ;
+; Lab2/template_de1soc/db/lcd_scope_auto_stripped.stp             ;
+; Lab2/template_de1soc/doublesync.v                               ;
+; Lab2/template_de1soc/flash.qxp                                  ;
+; Lab2/template_de1soc/generate_arbitrary_divided_clk32.v         ;
+; Lab2/template_de1soc/ipod_fsm.v                                 ;
+; Lab2/template_de1soc/ipod_fsm_timer.v                           ;
+; Lab2/template_de1soc/ipod_fsm_timer_tb.vwf                      ;
+; Lab2/template_de1soc/kbd_ctrl.v                                 ;
+; Lab2/template_de1soc/key2ascii.v                                ;
+; Lab2/template_de1soc/keyboard_converter.v                       ;
+; Lab2/template_de1soc/keyboard_converter_tb.vwf                  ;
+; Lab2/template_de1soc/lcd_scope.stp                              ;
+; Lab2/template_de1soc/lcd_scope_encapsulated_pacoblaze_wrapper.v ;
+; Lab2/template_de1soc/scope_capture.qxp                          ;
+; Lab2/template_de1soc/simple_ipod_solution.qpf                   ;
+; Lab2/template_de1soc/simple_ipod_solution.qsf                   ;
+; Lab2/template_de1soc/simple_ipod_solution.v                     ;
+; Lab2/template_de1soc/speed_reg_control.qxp                      ;
+; Lab2/template_de1soc/timing_constraints.sdc                     ;
+; Lab2/template_de1soc/to_slow_clk_interface.qxp                  ;
+; Lab2/template_de1soc/var_clk_div32.qxp                          ;
+; Lab2/template_de1soc/write_kbd_to_scope_lcd.v                   ;
+; Picoblaze/template_de2/picoblaze_template.v                     ;
+; Picoblaze/template_de2/timing_constraints.sdc                   ;
+; Lab2/template_de1soc/assignment_defaults.qdf                    ;
++-----------------------------------------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+
